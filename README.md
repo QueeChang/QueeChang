@@ -3,9 +3,17 @@
 
 - 🔭 I’m currently working on my projects until someone want hire me somewhere.
 
-## 🎓 Certifications
+## 📋 Profiles
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](<https://discord.com/users/447854801577836559>)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=marcolino.cipollo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/queechang)
+[]()
+
+## 📚 Education
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/it-it/users/queechang/transcript/dg0xpaey61l80qx)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/QueeChang)
+### 🎓 Certifications
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.freecodecamp.org/certification/QueeChang/foundational-c-sharp-with-microsoft)
 
 
 ## 🖥️ Skills
